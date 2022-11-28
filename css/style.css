@@ -1,0 +1,12 @@
+body {
+    background-image: url("/images/back.png");
+    background-size: 1500px;
+}
+
+nav{
+    display: flex;
+    padding: 2% 6%;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
